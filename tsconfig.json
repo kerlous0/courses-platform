@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "noImplicitAny": false,
-    "strictNullChecks": false,
-    "strictPropertyInitialization": false,
+    // "noImplicitAny": false,
+    // "strictNullChecks": false,
+    // "strictPropertyInitialization": false,
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
